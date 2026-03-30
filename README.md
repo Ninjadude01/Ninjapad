@@ -1,5 +1,8 @@
 # Ninjapad
-a macropad
+
+Ninjapad is a custom 5-key macropad that is fully customizable using qmk software. It uses cherry mx switches, a xiao rp 2040, and a custom PCB! I decided to make this macropad because I spend lots of my day on my computer, and having a customizable tool would be very useful and time saving. Additionally, it is a great project to help intoduce me to qmk and soldering, as I plan to make a full keyboard in the near future :)
+
+
 
 BOM:
 
